@@ -1,8 +1,8 @@
 body{
 	padding: 14px;
 	font-family: serif;
-	font-size: 16px;
-	 font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
 }
 
 #header{
@@ -13,7 +13,7 @@ body{
 }
 
 #name{
-	font-size: 40px;
+	font-size: 37px;
 	font-weight: bold;
 	display: inline-block;
 	/*color: #7D0552;*/
@@ -23,7 +23,7 @@ body{
 #contact_info_div{
 	padding-top: 5px;
 	float: right;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .contact_info_tag{
@@ -40,10 +40,10 @@ body{
 	/*float: left;*/
 	text-align: center;
 	padding-top: 9px;
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: bold;
 	/*color: #7D0552;*/
-	color: #990012; 
+	color: #990012;
 	/*width: 50%*/;
 	width: 100%;
 	display: inline-block;
@@ -63,19 +63,13 @@ body{
 	font-size: 20px;
 	margin-top: 2px;
 	/*color: #7D0552;*/
-	color: #990012; 
+	color: #990012;
 	/*white-space: pre-wrap;*/
 }
 
 table{
 	width: 100%;
 }
-
-/*tr.border_bottom td {
-	border-bottom-style: solid;
-	border-bottom-width: 1px;
-	border-bottom-color: #726E6D;
-}*/
 
 td{
 	width: 33%;
@@ -96,7 +90,7 @@ ul{
 }
 
 .time_span{
-	font-size: 15px;
+	font-size: 13px;
 	/*color: #7D0552;*/
 	font-weight: bold;
 	color: #726E6D;
