@@ -1,0 +1,109 @@
+body{
+	padding: 14px;
+	font-family: serif;
+	font-size: 16px;
+	 font-family: 'Raleway', sans-serif;
+}
+
+#header{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #726E6D;
+	padding-bottom: 7px;
+}
+
+#name{
+	font-size: 40px;
+	font-weight: bold;
+	display: inline-block;
+	/*color: #7D0552;*/
+	color: #990012;
+}
+
+#contact_info_div{
+	padding-top: 5px;
+	float: right;
+	font-size: 16px;
+}
+
+.contact_info_tag{
+	float: left;
+	/*color: #7D0552;*/
+	color: #990012;
+}
+
+.contact_info{
+	float: right;
+}
+
+.section_head{
+	/*float: left;*/
+	text-align: center;
+	padding-top: 9px;
+	font-size: 24px;
+	font-weight: bold;
+	/*color: #7D0552;*/
+	color: #990012; 
+	/*width: 50%*/;
+	width: 100%;
+	display: inline-block;
+}
+
+.section_info{
+	display: inline-block;
+	width: 100%;
+	margin-top: 3px;
+	/*border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color: #726E6D;*/
+	/*padding-left: 10px;*/
+}
+
+.subsection_head{
+	font-size: 20px;
+	margin-top: 2px;
+	/*color: #7D0552;*/
+	color: #990012; 
+	/*white-space: pre-wrap;*/
+}
+
+table{
+	width: 100%;
+}
+
+/*tr.border_bottom td {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #726E6D;
+}*/
+
+td{
+	width: 33%;
+	text-align: center;
+}
+
+ul{
+	padding-top: 0;
+	margin-top: 0;
+}
+
+#summary_qualifications{
+	padding-top: 10px;
+}
+
+.coop_job, .project, .activity{
+	width: 100%;
+}
+
+.time_span{
+	font-size: 15px;
+	/*color: #7D0552;*/
+	font-weight: bold;
+	color: #726E6D;
+	float: right;
+	padding-top: 3px;
+}
+.job_title, .project_type, .activity_info{
+	font-weight: bold;
+	color: #726E6D;
+}
