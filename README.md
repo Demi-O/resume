@@ -1,3 +1,3 @@
-# resume
+# My Resume
 
-Files I use to create my resume and a pdf version for anyone to see. 
+My most up to date resume written using HTML & CSS as well as a pdf version. 
