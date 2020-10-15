@@ -31,6 +31,7 @@ body{
 .contact_info_tag{
 	float: left;
 	color: #990012;
+	padding-right: 5px;
 }
 
 .contact_info{
@@ -54,7 +55,7 @@ body{
 }
 
 .subsection_head{
-	font-size: 19px;
+	font-size: 18px;
 	margin-top: 2px;
 	color: #990012;
 }
@@ -81,7 +82,7 @@ ul{
 	margin-top: 0;
 }
 
-.coop_job, .project, .activity{
+.coop_job, .project, .activity, .job{
 	width: 100%;
 }
 
